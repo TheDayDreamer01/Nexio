@@ -1,0 +1,18 @@
+# Ignore development/build related files
+node_modules/
+dist/
+build/
+.cache/
+public/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Ignore source control directories/files
+.git/
+.gitignore
+
+# Ignore package manager files
+npm-shrinkwrap.json
+yarn.lock
+package-lock.json
